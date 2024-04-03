@@ -34,6 +34,7 @@ STEP:12 On the board, by giving required input, the LEDs starts to glow light, i
 # Program
 Developed by : SUBASHINI S
 Register number : 212222060256
+
 module full_subtractor(a,b,c,diff,borr);
 input a,b,c;
 output diff,borr;
