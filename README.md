@@ -33,9 +33,11 @@ STEP:12 On the board, by giving required input, the LEDs starts to glow light, i
 ![image](https://github.com/RESMIRNAIR/FULL_SUBTRACTOR/assets/154305926/7d480140-153a-4a7e-a6d2-5323c6bd4974)
 # Program
 Developed by : SUBASHINI S
+
 Register number : 212222060256
 
 module full_subtractor(a,b,c,diff,borr);
+
 input a,b,c;
 output diff,borr;
 wire w1,w2,w3,w4;
